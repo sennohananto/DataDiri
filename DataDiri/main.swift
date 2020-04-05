@@ -9,4 +9,5 @@
 import Foundation
 
 print("Hello, World!")
-
+let nama = "Senno Hananto"
+print("Hello "+nama)
